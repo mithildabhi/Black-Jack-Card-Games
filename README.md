@@ -1,8 +1,6 @@
 
 # 🃏 Blackjack Game - Python CLI
 
-A simple command-line Blackjack game where the user and computer take random turns and play to reach 21 without busting.
-
 ## 📋 Description
 
 This is a basic implementation of the Blackjack card game (also known as 21) using Python. The game lets a user and a computer take random turns. Each tries to get as close to 21 as possible without going over ("busting"). The game includes initial blackjack detection, turn-based card drawing ("hit" or "skip"), and win/lose logic.
